@@ -1,0 +1,75 @@
+C:\Users\shase\Desktop\ParkourGame\ParkourGame\ParkourGame\bin\Debug\net9.0\Content\character.xnb
+C:\Users\shase\Desktop\ParkourGame\ParkourGame\ParkourGame\bin\Debug\net9.0\Content\dag2.xnb
+C:\Users\shase\Desktop\ParkourGame\ParkourGame\ParkourGame\bin\Debug\net9.0\Content\kaya3.xnb
+C:\Users\shase\Desktop\ParkourGame\ParkourGame\ParkourGame\bin\Debug\net9.0\Content\kaya4.xnb
+C:\Users\shase\Desktop\ParkourGame\ParkourGame\ParkourGame\bin\Debug\net9.0\Content\kutu.xnb
+C:\Users\shase\Desktop\ParkourGame\ParkourGame\ParkourGame\bin\Debug\net9.0\ParkourGame.exe
+C:\Users\shase\Desktop\ParkourGame\ParkourGame\ParkourGame\bin\Debug\net9.0\ParkourGame.deps.json
+C:\Users\shase\Desktop\ParkourGame\ParkourGame\ParkourGame\bin\Debug\net9.0\ParkourGame.runtimeconfig.json
+C:\Users\shase\Desktop\ParkourGame\ParkourGame\ParkourGame\bin\Debug\net9.0\ParkourGame.dll
+C:\Users\shase\Desktop\ParkourGame\ParkourGame\ParkourGame\bin\Debug\net9.0\ParkourGame.pdb
+C:\Users\shase\Desktop\ParkourGame\ParkourGame\ParkourGame\bin\Debug\net9.0\MonoGame.Framework.dll
+C:\Users\shase\Desktop\ParkourGame\ParkourGame\ParkourGame\bin\Debug\net9.0\NVorbis.dll
+C:\Users\shase\Desktop\ParkourGame\ParkourGame\ParkourGame\bin\Debug\net9.0\runtimes\android-arm\native\libopenal.so
+C:\Users\shase\Desktop\ParkourGame\ParkourGame\ParkourGame\bin\Debug\net9.0\runtimes\android-arm64\native\libopenal.so
+C:\Users\shase\Desktop\ParkourGame\ParkourGame\ParkourGame\bin\Debug\net9.0\runtimes\android-x64\native\libopenal.so
+C:\Users\shase\Desktop\ParkourGame\ParkourGame\ParkourGame\bin\Debug\net9.0\runtimes\android-x86\native\libopenal.so
+C:\Users\shase\Desktop\ParkourGame\ParkourGame\ParkourGame\bin\Debug\net9.0\runtimes\ios-arm64\native\libopenal.a
+C:\Users\shase\Desktop\ParkourGame\ParkourGame\ParkourGame\bin\Debug\net9.0\runtimes\iossimulator-arm64\native\libopenal.a
+C:\Users\shase\Desktop\ParkourGame\ParkourGame\ParkourGame\bin\Debug\net9.0\runtimes\iossimulator-x64\native\libopenal.a
+C:\Users\shase\Desktop\ParkourGame\ParkourGame\ParkourGame\bin\Debug\net9.0\runtimes\linux-arm64\native\libopenal.so
+C:\Users\shase\Desktop\ParkourGame\ParkourGame\ParkourGame\bin\Debug\net9.0\runtimes\linux-x64\native\libopenal.so
+C:\Users\shase\Desktop\ParkourGame\ParkourGame\ParkourGame\bin\Debug\net9.0\runtimes\osx\native\libopenal.dylib
+C:\Users\shase\Desktop\ParkourGame\ParkourGame\ParkourGame\bin\Debug\net9.0\runtimes\win-x64\native\openal.dll
+C:\Users\shase\Desktop\ParkourGame\ParkourGame\ParkourGame\bin\Debug\net9.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\shase\Desktop\ParkourGame\ParkourGame\ParkourGame\bin\Debug\net9.0\runtimes\osx\native\libSDL2-2.0.0.dylib
+C:\Users\shase\Desktop\ParkourGame\ParkourGame\ParkourGame\bin\Debug\net9.0\runtimes\win-x64\native\SDL2.dll
+C:\Users\shase\Desktop\ParkourGame\ParkourGame\ParkourGame\obj\Debug\net9.0\ParkourGame.csproj.AssemblyReference.cache
+C:\Users\shase\Desktop\ParkourGame\ParkourGame\ParkourGame\obj\Debug\net9.0\ParkourGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shase\Desktop\ParkourGame\ParkourGame\ParkourGame\obj\Debug\net9.0\ParkourGame.AssemblyInfoInputs.cache
+C:\Users\shase\Desktop\ParkourGame\ParkourGame\ParkourGame\obj\Debug\net9.0\ParkourGame.AssemblyInfo.cs
+C:\Users\shase\Desktop\ParkourGame\ParkourGame\ParkourGame\obj\Debug\net9.0\ParkourGame.csproj.CoreCompileInputs.cache
+C:\Users\shase\Desktop\ParkourGame\ParkourGame\ParkourGame\obj\Debug\net9.0\ParkourGame.sourcelink.json
+C:\Users\shase\Desktop\ParkourGame\ParkourGame\ParkourGame\obj\Debug\net9.0\ParkourG.9F0CF695.Up2Date
+C:\Users\shase\Desktop\ParkourGame\ParkourGame\ParkourGame\obj\Debug\net9.0\ParkourGame.dll
+C:\Users\shase\Desktop\ParkourGame\ParkourGame\ParkourGame\obj\Debug\net9.0\refint\ParkourGame.dll
+C:\Users\shase\Desktop\ParkourGame\ParkourGame\ParkourGame\obj\Debug\net9.0\ParkourGame.pdb
+C:\Users\shase\Desktop\ParkourGame\ParkourGame\ParkourGame\obj\Debug\net9.0\ParkourGame.genruntimeconfig.cache
+C:\Users\shase\Desktop\ParkourGame\ParkourGame\ParkourGame\obj\Debug\net9.0\ref\ParkourGame.dll
+c:\Users\shase\Desktop\SüleymanHaseki_2305041056_Game Programming 1\ParkourGame\ParkourGame\bin\Debug\net9.0\Content\character.xnb
+c:\Users\shase\Desktop\SüleymanHaseki_2305041056_Game Programming 1\ParkourGame\ParkourGame\bin\Debug\net9.0\Content\dag2.xnb
+c:\Users\shase\Desktop\SüleymanHaseki_2305041056_Game Programming 1\ParkourGame\ParkourGame\bin\Debug\net9.0\Content\kaya3.xnb
+c:\Users\shase\Desktop\SüleymanHaseki_2305041056_Game Programming 1\ParkourGame\ParkourGame\bin\Debug\net9.0\Content\kaya4.xnb
+c:\Users\shase\Desktop\SüleymanHaseki_2305041056_Game Programming 1\ParkourGame\ParkourGame\bin\Debug\net9.0\Content\kutu.xnb
+c:\Users\shase\Desktop\SüleymanHaseki_2305041056_Game Programming 1\ParkourGame\ParkourGame\bin\Debug\net9.0\ParkourGame.exe
+c:\Users\shase\Desktop\SüleymanHaseki_2305041056_Game Programming 1\ParkourGame\ParkourGame\bin\Debug\net9.0\ParkourGame.deps.json
+c:\Users\shase\Desktop\SüleymanHaseki_2305041056_Game Programming 1\ParkourGame\ParkourGame\bin\Debug\net9.0\ParkourGame.runtimeconfig.json
+c:\Users\shase\Desktop\SüleymanHaseki_2305041056_Game Programming 1\ParkourGame\ParkourGame\bin\Debug\net9.0\ParkourGame.dll
+c:\Users\shase\Desktop\SüleymanHaseki_2305041056_Game Programming 1\ParkourGame\ParkourGame\bin\Debug\net9.0\ParkourGame.pdb
+c:\Users\shase\Desktop\SüleymanHaseki_2305041056_Game Programming 1\ParkourGame\ParkourGame\bin\Debug\net9.0\MonoGame.Framework.dll
+c:\Users\shase\Desktop\SüleymanHaseki_2305041056_Game Programming 1\ParkourGame\ParkourGame\bin\Debug\net9.0\NVorbis.dll
+c:\Users\shase\Desktop\SüleymanHaseki_2305041056_Game Programming 1\ParkourGame\ParkourGame\bin\Debug\net9.0\runtimes\android-arm\native\libopenal.so
+c:\Users\shase\Desktop\SüleymanHaseki_2305041056_Game Programming 1\ParkourGame\ParkourGame\bin\Debug\net9.0\runtimes\android-arm64\native\libopenal.so
+c:\Users\shase\Desktop\SüleymanHaseki_2305041056_Game Programming 1\ParkourGame\ParkourGame\bin\Debug\net9.0\runtimes\android-x64\native\libopenal.so
+c:\Users\shase\Desktop\SüleymanHaseki_2305041056_Game Programming 1\ParkourGame\ParkourGame\bin\Debug\net9.0\runtimes\android-x86\native\libopenal.so
+c:\Users\shase\Desktop\SüleymanHaseki_2305041056_Game Programming 1\ParkourGame\ParkourGame\bin\Debug\net9.0\runtimes\ios-arm64\native\libopenal.a
+c:\Users\shase\Desktop\SüleymanHaseki_2305041056_Game Programming 1\ParkourGame\ParkourGame\bin\Debug\net9.0\runtimes\iossimulator-arm64\native\libopenal.a
+c:\Users\shase\Desktop\SüleymanHaseki_2305041056_Game Programming 1\ParkourGame\ParkourGame\bin\Debug\net9.0\runtimes\iossimulator-x64\native\libopenal.a
+c:\Users\shase\Desktop\SüleymanHaseki_2305041056_Game Programming 1\ParkourGame\ParkourGame\bin\Debug\net9.0\runtimes\linux-arm64\native\libopenal.so
+c:\Users\shase\Desktop\SüleymanHaseki_2305041056_Game Programming 1\ParkourGame\ParkourGame\bin\Debug\net9.0\runtimes\linux-x64\native\libopenal.so
+c:\Users\shase\Desktop\SüleymanHaseki_2305041056_Game Programming 1\ParkourGame\ParkourGame\bin\Debug\net9.0\runtimes\osx\native\libopenal.dylib
+c:\Users\shase\Desktop\SüleymanHaseki_2305041056_Game Programming 1\ParkourGame\ParkourGame\bin\Debug\net9.0\runtimes\win-x64\native\openal.dll
+c:\Users\shase\Desktop\SüleymanHaseki_2305041056_Game Programming 1\ParkourGame\ParkourGame\bin\Debug\net9.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+c:\Users\shase\Desktop\SüleymanHaseki_2305041056_Game Programming 1\ParkourGame\ParkourGame\bin\Debug\net9.0\runtimes\osx\native\libSDL2-2.0.0.dylib
+c:\Users\shase\Desktop\SüleymanHaseki_2305041056_Game Programming 1\ParkourGame\ParkourGame\bin\Debug\net9.0\runtimes\win-x64\native\SDL2.dll
+c:\Users\shase\Desktop\SüleymanHaseki_2305041056_Game Programming 1\ParkourGame\ParkourGame\obj\Debug\net9.0\ParkourGame.csproj.AssemblyReference.cache
+c:\Users\shase\Desktop\SüleymanHaseki_2305041056_Game Programming 1\ParkourGame\ParkourGame\obj\Debug\net9.0\ParkourGame.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\shase\Desktop\SüleymanHaseki_2305041056_Game Programming 1\ParkourGame\ParkourGame\obj\Debug\net9.0\ParkourGame.AssemblyInfoInputs.cache
+c:\Users\shase\Desktop\SüleymanHaseki_2305041056_Game Programming 1\ParkourGame\ParkourGame\obj\Debug\net9.0\ParkourGame.AssemblyInfo.cs
+c:\Users\shase\Desktop\SüleymanHaseki_2305041056_Game Programming 1\ParkourGame\ParkourGame\obj\Debug\net9.0\ParkourGame.csproj.CoreCompileInputs.cache
+c:\Users\shase\Desktop\SüleymanHaseki_2305041056_Game Programming 1\ParkourGame\ParkourGame\obj\Debug\net9.0\ParkourG.9F0CF695.Up2Date
+c:\Users\shase\Desktop\SüleymanHaseki_2305041056_Game Programming 1\ParkourGame\ParkourGame\obj\Debug\net9.0\ParkourGame.dll
+c:\Users\shase\Desktop\SüleymanHaseki_2305041056_Game Programming 1\ParkourGame\ParkourGame\obj\Debug\net9.0\refint\ParkourGame.dll
+c:\Users\shase\Desktop\SüleymanHaseki_2305041056_Game Programming 1\ParkourGame\ParkourGame\obj\Debug\net9.0\ParkourGame.pdb
+c:\Users\shase\Desktop\SüleymanHaseki_2305041056_Game Programming 1\ParkourGame\ParkourGame\obj\Debug\net9.0\ParkourGame.genruntimeconfig.cache
+c:\Users\shase\Desktop\SüleymanHaseki_2305041056_Game Programming 1\ParkourGame\ParkourGame\obj\Debug\net9.0\ref\ParkourGame.dll

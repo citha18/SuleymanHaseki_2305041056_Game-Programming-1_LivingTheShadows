@@ -1,0 +1,4 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"c:/Users/user/Desktop/ParkourGame/ParkourGame/ParkourGame/Content/dag2.png","c:/Users/user/Desktop/ParkourGame/ParkourGame/ParkourGame/Content/bin/DesktopGL/dag2.xnb","TextureProcessor","Texture2DContent",7825,188413,0,0730932
+"c:/Users/user/Desktop/ParkourGame/ParkourGame/ParkourGame/Content/kaya3.png","c:/Users/user/Desktop/ParkourGame/ParkourGame/ParkourGame/Content/bin/DesktopGL/kaya3.xnb","TextureProcessor","Texture2DContent",2288,35285,0,0029609
+"c:/Users/user/Desktop/ParkourGame/ParkourGame/ParkourGame/Content/kaya4.png","c:/Users/user/Desktop/ParkourGame/ParkourGame/ParkourGame/Content/bin/DesktopGL/kaya4.xnb","TextureProcessor","Texture2DContent",2201,32949,0,0019384
