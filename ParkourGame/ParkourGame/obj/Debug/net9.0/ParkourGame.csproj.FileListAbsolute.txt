@@ -73,3 +73,4 @@ c:\Users\shase\Desktop\SüleymanHaseki_2305041056_Game Programming 1\ParkourGame
 c:\Users\shase\Desktop\SüleymanHaseki_2305041056_Game Programming 1\ParkourGame\ParkourGame\obj\Debug\net9.0\ParkourGame.pdb
 c:\Users\shase\Desktop\SüleymanHaseki_2305041056_Game Programming 1\ParkourGame\ParkourGame\obj\Debug\net9.0\ParkourGame.genruntimeconfig.cache
 c:\Users\shase\Desktop\SüleymanHaseki_2305041056_Game Programming 1\ParkourGame\ParkourGame\obj\Debug\net9.0\ref\ParkourGame.dll
+c:\Users\shase\Desktop\SüleymanHaseki_2305041056_Game Programming 1\ParkourGame\ParkourGame\obj\Debug\net9.0\ParkourGame.sourcelink.json

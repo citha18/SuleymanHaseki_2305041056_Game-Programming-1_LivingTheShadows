@@ -46,6 +46,7 @@ public class Game1 : Game
         // Karakteri sol dağın üstünde başlat
         Vector2 characterStartPos = new Vector2(20, screenHeight - dag2Texture.Height - characterTexture.Height);
         _character = new Character(characterTexture, screenWidth, screenHeight, characterStartPos);
+        _character.SetStartPosition(characterStartPos);
 
         // Sol başlangıç platformu (dag2)
         _platforms.Add(new Mountain(dag2Texture, new Vector2(-50, screenHeight - dag2Texture.Height)));
@@ -72,7 +73,7 @@ public class Game1 : Game
         _character.UpdateCollisions(_platforms);
 
         // Karakter ekranın altına düştüyse reset et
-        if (_character.Position.Y > GraphicsDevice.Viewport.Height)
+        if (_character.Position.Y > GraphicsDevice.Viewport.Height - 100)
         {
             _character.Reset();
         }

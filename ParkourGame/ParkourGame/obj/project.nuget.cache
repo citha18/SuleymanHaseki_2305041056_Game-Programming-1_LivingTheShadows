@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LysZt+0fgnU=",
+  "dgSpecHash": "z9GXjVCYs+4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\shase\\Desktop\\SüleymanHaseki_2305041056_Game Programming 1\\ParkourGame\\ParkourGame\\ParkourGame.csproj",
+  "projectFilePath": "c:\\Users\\shase\\Desktop\\SüleymanHaseki_2305041056_Game Programming 1\\ParkourGame\\ParkourGame\\ParkourGame.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\shase\\.nuget\\packages\\monogame.content.builder.task\\3.8.4.1\\monogame.content.builder.task.3.8.4.1.nupkg.sha512",
     "C:\\Users\\shase\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.4.1\\monogame.framework.desktopgl.3.8.4.1.nupkg.sha512",
